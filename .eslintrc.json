@@ -18,11 +18,10 @@
     "prettier/prettier": "error"
   },
   "settings": {
-    "import/extensions": [".ts", ".tsx"],
-    "import/core-modules": ["app"],
+    "import/extensions": [".ts"],
     "import/resolver": {
       "node": {
-        "extensions": [".ts", ".tsx"]
+        "extensions": [".ts"]
       }
     }
   }
