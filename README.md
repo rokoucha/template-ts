@@ -1,6 +1,6 @@
 # template-ts
 
-[![npm version](https://badge.fury.io/js/%40rokoucha%2Ftemplate-ts.svg)](https://badge.fury.io/js/%40rokoucha%2Ftemplate-ts)
+[![npm version](https://badge.fury.io/js/template-ts.svg)](https://badge.fury.io/js/template-ts)
 [![CI](https://github.com/rokoucha/template-ts/workflows/check/badge.svg)](https://github.com/rokoucha/template-ts/actions?query=workflow%3Acheck)
 [![codecov](https://codecov.io/gh/rokoucha/template-ts/branch/master/graph/badge.svg)](https://codecov.io/gh/rokoucha/template-ts)
 
